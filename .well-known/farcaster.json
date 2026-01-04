@@ -1,19 +1,19 @@
 {
   "accountAssociation": {
-    "header": "[FARCASTER'DAN ALINACAK]",
-    "payload": "[FARCASTER'DAN ALINACAK]",
-    "signature": "[FARCASTER'DAN ALINACAK]"
+    "header": "eyJmaWQiOjEzOTU4ODMsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhEQjBjMzJjODA5ZGM2MmVhN0ZGNEJFODdENWEwMzg2NzBjRDE5MjVEIn0",
+    "payload": "eyJkb21haW4iOiJzbmFrZXJldHJvb25iYXNlLnZlcmNlbC5hcHAifQ",
+    "signature": "NTtwcoJUJBm0vdqV9T2mEx/bXMn+4kc9wHR7txpfl0Jv1cIA2hxfA+TXEk4iSMf7THw/guUjmE7IVRrm1bI7NRs="
   },
   "frame": {
     "version": "1",
-    "name": "SNAKE RETRO on BASE",
-    "subtitle": "Retro Snake game with crypto coins",
-    "description": "Classic Snake game with a retro aesthetic. Eat crypto coins ($BTC, $ETH, $SOL, $LTC) to grow your snake. Endless gameplay on Base network.",
+    "name": "Snake Retro on Base",
+    "subtitle": "Play, compete, win — fully on Base",
+    "description": "Snake Retro on Base is a retro snake game on Base",
     "iconUrl": "https://snakeretroonbase.vercel.app/icon.png",
     "homeUrl": "https://snakeretroonbase.vercel.app",
     "imageUrl": "https://snakeretroonbase.vercel.app/preview.png",
     "splashImageUrl": "https://snakeretroonbase.vercel.app/icon.png",
-    "splashBackgroundColor": "#000000",
+    "splashBackgroundColor": "#0052FF",
     "primaryCategory": "games",
     "tags": ["game", "arcade", "farcaster", "snake"],
     "tagline": "Retro Snake with crypto coins",
@@ -24,4 +24,3 @@
     "ogImageUrl": "https://snakeretroonbase.vercel.app/preview.png"
   }
 }
-
